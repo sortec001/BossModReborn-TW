@@ -1,0 +1,21 @@
+﻿[
+  {
+    "Author": "暴风",
+    "Name": "BossMod Reborn",
+    "InternalName": "BossModReborn",
+    "AssemblyVersion": "7.2.5.45",
+    "Description": "首領戰雷達與機制提示（台服繁體）",
+    "Punchline": "Boss 模組與雷達",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/sortec001/BossModReborn-TW",
+    "Changelog": "台服：本地化資源修復、介面語言切換",
+    "DalamudApiLevel": 12,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdate": "1779773485",
+    "DownloadLinkInstall": "https://github.com/sortec001/BossModReborn-TW/raw/main/release/BossModReborn/latest.zip",
+    "DownloadLinkTesting": "https://github.com/sortec001/BossModReborn-TW/raw/main/release/BossModReborn/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/sortec001/BossModReborn-TW/raw/main/release/BossModReborn/latest.zip"
+  }
+]
